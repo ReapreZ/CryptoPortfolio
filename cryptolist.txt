@@ -1,0 +1,20 @@
+Bitcoin/0.0159203/608.8
+Ethereum/0.0/0.0
+BNB/0.0/0.0
+Cardano/125.0/168.0
+Terra/0.0/0.0
+Cronos/218.9/79.45
+Chainlink/17.0/425.0
+Algorand/31.29/50.0
+Gala/300.0/66.25
+Quant/0.9272/107.62
+Dogelon Mars/4.0E7/50.0
+Ultra/0.0/0.0
+MILC Platform/376.48834/130.0
+LooksRare/158.0/500.0
+Everdome/1359.05365/100.0
+Katana Inu/29135.38785/83.0
+Floki Inu/0.0/0.0
+Zombie Inu/7.78990228E8/77.0
+Town Star/0.0/0.0
+Project Quantum/370713.16/75.0
